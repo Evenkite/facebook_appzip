@@ -1,0 +1,4 @@
+---当前群组---
+current_group< >
+---当前帖子---
+current_post< >
