@@ -1,0 +1,6 @@
+自定义模式：current_group变更为<https://www.facebook.com/groups/2592720174328182/>
+2024-03-01 12:29:06
+自定义模式：current_post变更为<1>
+2024-03-01 12:34:30
+自定义模式：current_post变更为<2>
+2024-03-01 12:34:33
