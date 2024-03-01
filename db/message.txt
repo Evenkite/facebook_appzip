@@ -1,5 +1,0 @@
-message:消息示例1;
-message:消息示例2;
-message:消息示例3;
-message:消息示例4;
-message:消息示例5;
